@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\byui\\CSE 325\\ContosoPizza\\cse325\\ContosoPizza.csproj": {}
+    "D:\\code\\byui\\CSE 325\\cse325\\ContosoPizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "D:\\code\\byui\\CSE 325\\ContosoPizza\\cse325\\ContosoPizza.csproj": {
+    "D:\\code\\byui\\CSE 325\\cse325\\ContosoPizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\byui\\CSE 325\\ContosoPizza\\cse325\\ContosoPizza.csproj",
+        "projectUniqueName": "D:\\code\\byui\\CSE 325\\cse325\\ContosoPizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "D:\\code\\byui\\CSE 325\\ContosoPizza\\cse325\\ContosoPizza.csproj",
+        "projectPath": "D:\\code\\byui\\CSE 325\\cse325\\ContosoPizza\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\SkyGuy\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\byui\\CSE 325\\ContosoPizza\\cse325\\obj\\",
+        "outputPath": "D:\\code\\byui\\CSE 325\\cse325\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
